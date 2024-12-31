@@ -6,5 +6,7 @@
 
 Physicsim uses p5.js to render 3D simulations of concepts targeted for A-Level Physics (UK). 
 
+Found an issue?? Email enquiries@physicsim.co.uk
+
 __Isaac Barker__
 <br>[isaacbarker.net](https://www.isaacbarker.net)<br>
