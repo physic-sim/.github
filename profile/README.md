@@ -1,4 +1,4 @@
-![PHYSICSim](./src//static/logo-header.png)
+![PHYSICSim](./dark-transparent.png)
 
 **Welcome to PHYSICSim**
 
